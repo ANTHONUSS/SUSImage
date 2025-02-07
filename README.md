@@ -1,0 +1,2 @@
+# BIF
+BrainRot Image Format
