@@ -1,2 +1,2 @@
-# BIF
-BrainRot Image Format
+# SUSImage
+.sus Image Format
